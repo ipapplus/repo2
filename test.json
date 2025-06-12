@@ -1,0 +1,22 @@
+{
+  "name": "Pinterest",
+  "identifier": "pinterest",
+  "sourceURL": "https://github.com/ipapplus/repo2/releases/download/ipa/Pinterest.13.22.DLEasy.ipa",
+  "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+  "website": "https://a7m.dev",
+  "subtitle": "a7m | repo",
+  "apps": [
+    {
+      "name": "Pinterest DLEasy",
+      "bundleIdentifier": "pinterest",
+      "developerName": "@ipapplus",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+      "version": "13.22",
+      "size": 93 MB,
+      "downloadURL": "https://github.com/ipapplus/repo2/releases/download/ipa/Pinterest.13.22.DLEasy.ipa",
+      "subtitle": "Apps",
+      "localizedDescription": "Pinterest & DLEasy",
+      "versionDate": "2025-06-12"
+    }
+  ]
+}
